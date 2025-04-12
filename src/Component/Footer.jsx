@@ -10,7 +10,7 @@ const Footer = () => {
         <div className="footer">
             <div className='footer-container'>
                 <div className='footer-head'>
-                    <img src="./src/assets/img.png "alt="" />
+                    <img src="/assets/img.png "alt="" />
                     <h3>logoipsum</h3>
                 </div>
                 <div className="footer-para">

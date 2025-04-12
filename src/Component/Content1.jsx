@@ -4,7 +4,7 @@ const Content1 = () => {
   return (
     <div className='content1-main'>
         <div className='left'>
-            <img src="./src/assets/leftimahe.avif" alt="" />
+            <img src="/assets/leftimahe.avif" alt="" />
         </div>
         <div className='right'>
             <div className='right-content'>

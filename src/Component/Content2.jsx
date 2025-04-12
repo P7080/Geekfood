@@ -12,7 +12,7 @@ const Content2 = () => {
                     </p>
                 </div>
                 <div className='profile'>
-                    <img src="./src/assets/porfile.avif" alt="" />
+                    <img src="/assets/porfile.avif" alt="" />
                     <div>
                         <h3>Gladies Lennon</h3>
                         <span>Head of SEO</span>
@@ -26,7 +26,7 @@ const Content2 = () => {
                     </p>
                 </div>
                 <div className='profile'>
-                    <img src="./src/assets/porfile.avif" alt="" />
+                    <img src="/assets/porfile.avif" alt="" />
                     <div>
                         <h3>Gladies Lennon</h3>
                         <span>Head of SEO</span>
@@ -40,7 +40,7 @@ const Content2 = () => {
                     </p>
                 </div>
                 <div className='profile'>
-                    <img src="./src/assets/porfile.avif" alt="" />
+                    <img src="/assets/porfile.avif" alt="" />
                     <div>
                         <h3>Gladies Lennon</h3>
                         <span>Head of SEO</span>
@@ -54,7 +54,7 @@ const Content2 = () => {
                     </p>
                 </div>
                 <div className='profile'>
-                    <img src="./src/assets/porfile.avif" alt="" />
+                    <img src="/assets/porfile.avif" alt="" />
                     <div>
                         <h3>Gladies Lennon</h3>
                         <span>Head of SEO</span>
@@ -68,7 +68,7 @@ const Content2 = () => {
                     </p>
                 </div>
                 <div className='profile'>
-                    <img src="./src/assets/porfile.avif" alt="" />
+                    <img src="/assets/porfile.avif" alt="" />
                     <div>
                         <h3>Gladies Lennon</h3>
                         <span>Head of SEO</span>
@@ -83,7 +83,7 @@ const Content2 = () => {
                 </div>
                 <div className='profile'>
                     <div>
-                       <img src="./src/assets/porfile.avif" alt="" />
+                       <img src="/assets/porfile.avif" alt="" />
                     </div>
                     <div>
                         <h3>Gladies Lennon</h3>
